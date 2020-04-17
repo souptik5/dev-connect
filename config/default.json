@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://soup05:soup05@devconnect-s7upt.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubToken": "Iv1.13044c1b6beb0a31",
+  "githubSecret": "9388abd987af3590b532545228c81be627a960f3"
+}
